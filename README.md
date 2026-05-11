@@ -62,7 +62,7 @@
 ─────────────────────────
 
 OS: Win10 / Arch Linux
-language of interest: Java (learning), Python, Lua
+language of interest: Java, Python, Lua
 Human Languages: Portuguese, English, Spanish
 
 tools:
