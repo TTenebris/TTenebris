@@ -5,28 +5,28 @@
 ─────────────────────────
 ```yaml
 
-OS: Win10 / Arch Linux
-language of interest: Java, Python, Lua
-Human Languages: Portuguese, English, Spanish
+[TTenebris@github ~]$ whoami
 
-tools:
-  - VS Code
-  - IntelliJ IDEA
-  - Git
+Tenebris
+Computer Science student
 
-Focus:
-  - Backend
-  - Cybersecurity
-  - Game Development
+[TTenebris@github ~]$ current_status
 
-Interests:
-  - Horror
-  - RPG Systems
-  - Dungeons & Dragons :p
-  - Guitar and keyboard
+learning:
+  Java
+  LUA
 
-Discord:
-  - tenebrisz
+interests:
+  backend
+  game development
+
+speaks:
+  PT-BR / EN / ES / FI
+
+misc:
+  horror
+  RPGs
+  music
 ```
 ```text
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
