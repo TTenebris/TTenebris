@@ -1,10 +1,10 @@
 ![banner](https://img.shields.io/badge/TTenebris-0d1117?style=for-the-badge&logo=github&logoColor=a855f7)
 
-# Hello There
+# Hello There :vhs:
 # < TTenebris />
 
-```txt
 ─────────────────────────
+```yaml
 
 OS: Win10 / Arch Linux
 language of interest: Java, Python, Lua
@@ -28,6 +28,10 @@ Interests:
 
 Discord:
   - tenebrisz
+```
+```text
+
+
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⣠⡶⠒⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⡶⠿⠁⠀⠀⠀⠀
