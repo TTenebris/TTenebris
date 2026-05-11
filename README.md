@@ -1,9 +1,34 @@
-<table>
-<tr>
-<td>
+![banner](https://img.shields.io/badge/TTenebris-0d1117?style=for-the-badge&logo=github&logoColor=a855f7)
 
-<pre>
-                                                                             
+# Hello There
+# < TTenebris />
+
+```txt
+─────────────────────────
+
+OS: Win10 / Arch Linux
+language of interest: Java, Python, Lua
+Human Languages: Portuguese, English, Spanish
+
+tools:
+  - VS Code
+  - IntelliJ IDEA
+  - Git
+
+Focus:
+  - Backend
+  - Cybersecurity
+  - Game Development
+
+Interests:
+  - Horror
+  - RPG Systems
+  - Dungeons & Dragons :p
+  - Guitar and keyboard
+
+Discord:
+  - tenebrisz
+
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⣠⡶⠒⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⡶⠿⠁⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠞⠁⠀⠀⠀⠀⠀⠀⠀
@@ -47,43 +72,5 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⣤⣽⣿⣟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⠟⠀⠀⠀⠀⠀⠀⠀⠀⢠⠀⠀⠀⠀⡀⠀⠀⢀⡤⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⣀⡾⠀⠀⠀⠀⠈⠓⠚⠋⠁⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-</pre>
-
-</td>
-<td>
-  
-![banner](https://img.shields.io/badge/TTenebris-0d1117?style=for-the-badge&logo=github&logoColor=a855f7)
-
-# < TTenebris />
-
-```txt
-─────────────────────────
-
-OS: Win10 / Arch Linux
-language of interest: Java, Python, Lua
-Human Languages: Portuguese, English, Spanish
-
-tools:
-  - VS Code
-  - IntelliJ IDEA
-  - Git
-
-Focus:
-  - Backend
-  - Cybersecurity
-  - Game Development
-
-Interests:
-  - Horror
-  - RPG Systems
-  - Dungeons & Dragons :p
-  - Guitar and keyboard
-
-Discord:
-  - tenebrisz
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
-
-</td>
-</tr>
-</table>
