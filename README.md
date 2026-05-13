@@ -7,10 +7,13 @@
 
 Tenebris@github ~/TTenebris
 $ whoami
+
 Tenebris
 Computer Science student
 
-[TTenebris@github ~]$ current_status
+Tenebris@github ~/TTenebris
+$ current_status
+
 learning:
   Java
   LUA
