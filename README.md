@@ -5,13 +5,13 @@
 ─────────────────────────
 ```yaml
 
-Tenebris@github ~/TTenebris
+Tenebris@GITHUB ~/TTenebris
 $ whoami
 
 Tenebris
 Computer Science student
 
-Tenebris@github ~/TTenebris
+Tenebris@GITHUB ~/TTenebris
 $ current_status
 
 learning:
@@ -20,6 +20,7 @@ learning:
 
 interests:
   backend
+  cybersecurity
   game development
 
 speaks:
