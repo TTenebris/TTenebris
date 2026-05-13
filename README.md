@@ -6,12 +6,10 @@
 ```yaml
 
 [TTenebris@github ~]$ whoami
-
 Tenebris
 Computer Science student
 
 [TTenebris@github ~]$ current_status
-
 learning:
   Java
   LUA
@@ -27,6 +25,7 @@ misc:
   horror
   RPGs
   music
+  games
 ```
 ```text
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
