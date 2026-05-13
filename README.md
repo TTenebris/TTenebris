@@ -5,7 +5,8 @@
 ─────────────────────────
 ```yaml
 
-[TTenebris@github ~]$ whoami
+Tenebris@github ~/TTenebris
+$ whoami
 Tenebris
 Computer Science student
 
